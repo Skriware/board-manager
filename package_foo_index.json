@@ -24,35 +24,30 @@
             {"name": "Skribrain"}
           ],
          "toolsDependencies": [
+           {
+              "packager": "esp32",
+              "name": "riscv32-esp-elf-gcc",
+              "version": "gcc8_4_0-esp-2021r2-patch3"
+            },
             {
               "packager": "esp32",
               "name": "xtensa-esp32-elf-gcc",
-              "version": "esp-2021r2-patch5-8.4.0"
+              "version": "gcc8_4_0-esp-2021r2-patch3"
             },
             {
               "packager": "esp32",
               "name": "xtensa-esp32s2-elf-gcc",
-              "version": "esp-2021r2-patch5-8.4.0"
+              "version": "gcc8_4_0-esp-2021r2-patch3"
             },
             {
               "packager": "esp32",
               "name": "xtensa-esp32s3-elf-gcc",
-              "version": "esp-2021r2-patch5-8.4.0"
-            },
-            {
-              "packager": "esp32",
-              "name": "riscv32-esp-elf-gcc",
-              "version": "esp-2021r2-patch5-8.4.0"
-            },
-            {
-              "packager": "esp32",
-              "name": "openocd-esp32",
-              "version": "v0.11.0-esp32-20221026"
+              "version": "gcc8_4_0-esp-2021r2-patch3"
             },
             {
               "packager": "esp32",
               "name": "esptool_py",
-              "version": "3.1.0"
+              "version": "4.2.1"
             },
             {
               "packager": "esp32",
