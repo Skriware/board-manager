@@ -11,7 +11,7 @@
       "platforms": [
         {
           "name": "Skriware Test",
-          "architecture": "skribrain",
+          "architecture": "esp32",
           "version": "1.1.0",
           "category": "skriware",
           "help": {
