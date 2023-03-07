@@ -2,15 +2,15 @@
   "packages": [
     {
       "name": "skriware",
-      "maintainer": "Ukikoza",
+      "maintainer": "Łukasz Kozyra",
       "websiteURL": "https://github.com/Skriware",
-      "email": "",
+      "email": "lukasz.kozyra@skriware.com",
       "help": {
         "online": ""
       },
       "platforms": [
         {
-          "name": "Skriware Test",
+          "name": "Skribrain Core",
           "architecture": "esp32",
           "version": "1.1.0",
           "category": "skriware",
