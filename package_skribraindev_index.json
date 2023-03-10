@@ -12,15 +12,15 @@
         {
           "name": "Skribrain Core",
           "architecture": "esp32",
-          "version": "2.0.0beta",
+          "version": "2.0.0",
           "category": "skriware",
           "help": {
             "online": ""
           },
           "url": "https://skriwarecomassets.blob.core.windows.net/skribots-installers/Skribrain_newcore.zip",
           "archiveFileName": "Skribrain_core.zip",
-          "checksum":  "SHA-256:9784021cbd59ae5131ad60d95f66aaa96143e69d97f3085170d32aaac9dee62c",
-          "boards": 
+          "checksum": "SHA-256:9784021cbd59ae5131ad60d95f66aaa96143e69d97f3085170d32aaac9dee62c",
+          "boards": [
             {"name": "Skribrain"}
           ],
                    "toolsDependencies": [
@@ -2004,4 +2004,3 @@
     }
   ]
 }
-
