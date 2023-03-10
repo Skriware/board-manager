@@ -19,7 +19,7 @@
           },
           "url": "https://skriwarecomassets.blob.core.windows.net/skribots-installers/Skribrain_newcore.zip",
           "archiveFileName": "Skribrain_newcore.zip",
-          "checksum":  "SHA-256:126acd896798a6c2241084bcf59d5770a1560c8433309236a5ffbfc201af0edd",
+          "checksum":  "SHA-256:e8044a1ba49e519f44bcfb9e9161085093e64c746529f8be75b39e35b4f30304",
           "boards": [
             {"name": "Skribrain"}
           ],
