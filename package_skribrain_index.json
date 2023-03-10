@@ -17,9 +17,9 @@
           "help": {
             "online": ""
           },
-          "url": "https://skriwarecomassets.blob.core.windows.net/skribots-installers/Skribrain_core.zip",
-          "archiveFileName": "Skribrain_core.zip",
-          "checksum": "SHA-256:6780ba0973d44f5a63d9515f244346196e426e996a94e5854882ecb38247177f",
+          "url": "https://skriwarecomassets.blob.core.windows.net/skribots-installers/Skribrain_newcore.zip",
+          "archiveFileName": "Skribrain_newcore.zip",
+          "checksum": "SHA-256:c7521b9ef947fd2b2a7a24d5a992e79e158d2f50b3cb2b7bc0c8b474ddfe3f6a",
           "boards": [
             {"name": "Skribrain"}
           ],
