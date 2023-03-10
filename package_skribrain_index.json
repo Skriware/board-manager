@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "skriware",
-      "maintainer": "Łukasz Kozyra",
+      "maintainer": "\u0141ukasz Kozyra",
       "websiteURL": "https://github.com/Skriware",
       "email": "lukasz.kozyra@skriware.com",
       "help": {
@@ -19,11 +19,13 @@
           },
           "url": "https://skriwarecomassets.blob.core.windows.net/skribots-installers/Skribrain_newcore.zip",
           "archiveFileName": "Skribrain_core.zip",
-          "checksum": "SHA-256:c7521b9ef947fd2b2a7a24d5a992e79e158d2f50b3cb2b7bc0c8b474ddfe3f6a",
+          "checksum": "SHA-256:e4a6fc842fc0dd633f216794aaf92b4ce931597d731b2cba34e44f2ec7e1c9c6",
           "boards": [
-            {"name": "Skribrain"}
+            {
+              "name": "Skribrain"
+            }
           ],
-                   "toolsDependencies": [
+          "toolsDependencies": [
             {
               "packager": "skriware",
               "name": "riscv32-esp-elf-gcc",
