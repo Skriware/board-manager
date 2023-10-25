@@ -19,7 +19,7 @@
           },
           "url": "https://skriwarecomassets.blob.core.windows.net/skribots-installers/Skribrain_core_3_4.zip",
           "archiveFileName": "Skribrain_core.zip",
-          "size": "67129344",
+          "size": "67125859",
           "checksum": "SHA-256:edb1d4edb38aef14ee1a2f2a001f7fceed962ca47c1ad34792c2f4558e51e50b",
           "boards": [
             {
