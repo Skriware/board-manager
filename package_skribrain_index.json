@@ -12,15 +12,15 @@
         {
           "name": "Skribrain Core",
           "architecture": "esp32",
-          "version": "2.2.0",
+          "version": "2.3.0",
           "category": "skriware",
           "help": {
             "online": "https://github.com/Skriware/skribrain-arduino-boards/"
           },
-          "url": "https://skriwarecomassets.blob.core.windows.net/skribots-installers/Skribrain_core_3_4.zip",
+          "url": "https://skriwarecomassets.blob.core.windows.net/skribots-installers/Skribrain_core_3_6.zip",
           "archiveFileName": "Skribrain_core.zip",
           "size": "67125976",
-          "checksum": "SHA-256:dfdf073f43a5bf35184f46408769576f9bff443ca79eaaf3aaa1699a8940c14e",
+          "checksum": "SHA-256:0075ff7238452e6ea6f0c9c19f3983c3b97d7e60779a8ffade794f5290d33e63",
           "boards": [
             {
               "name": "Skribrain"
